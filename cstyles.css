@@ -1,0 +1,183 @@
+
+.jumbotron{
+  text-align:center;
+  font-family: courier;
+  padding-top:90px;
+    min-height: 400px;
+    margin-bottom: 0;
+    background-image: url('jummy.jpeg');
+    background-size:cover;
+    background-repeat:repeat-x;
+    backface-visibility: hidden
+}
+
+.jumbotron h1 {
+font-family:"Courier New", Courier, monospace;
+color:white;
+margin-bottom: 1em;
+font-stretch: semi-condensed;
+font-size: 200px;
+}
+
+
+.navbar {
+    background-color:#DCDCDC;
+    border-color: #E7E7E7;
+    font-family:courier;
+    font-weight:bolder;
+    color:#9F6164;
+  }
+
+.navbar-header{
+color:#9F6164;
+font-family: Courier;
+font-size:600px;
+font-weight: bolder;
+}
+
+
+#first{
+  background-color:#FFFAF0;
+  padding-bottom:40px;
+}
+
+#c-superfeature-wrapper{
+  background-color:#FFEFD5;
+  padding-top:20px;
+
+}
+#first h1{
+  font-family: courier new;
+  font-size: 55px;
+  font-style: normal;
+  font-variant: bolder;
+  color:black;
+  font-weight: 700;
+
+}
+#first p{
+  font-family:courier;
+  font-variant:bolder;
+}
+
+#first h2{
+  text-align:left;
+  text-decoration: underline;
+  font-family:Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+  font-variant:bolder;
+  font-style: 10px;
+  font-weight: bolder;
+  color:black;
+}
+
+#first h3{
+  text-align:center;
+  text-decoration: underline;
+  font-family:Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+  font-variant:bolder;
+  font-style: 50px;
+  font-weight: bolder;
+  color:black;
+}
+
+#first h4{
+  text-align:left;
+  text-decoration: underline;
+  font-family:Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+  font-variant:bolder;
+  font-style: 50px;
+  font-weight: bolder;
+  color:black;
+}
+
+#c-superfeature-wrapper{
+  padding-bottom: 40px;
+}
+
+#c-superfeature-wrapper h1{
+  font-family: courier new;
+  font-size: 45px;
+  font-style: normal;
+  font-variant: bolder;
+  color:black;
+  font-weight: 700;
+}
+
+#mad{
+  background-color: #E6E6FA;
+  padding-top:40px;
+  padding-bottom: 40px;
+
+}
+
+#mad h1{
+  font-family: courier new;
+  font-size: 55px;
+  font-style: normal;
+  font-variant: bolder;
+  color:white;
+  font-weight: 700;
+}
+
+#mad h2{
+  font-family: courier new;
+  font-size: 55px;
+  font-style: normal;
+  font-variant: bolder;
+  color:white;
+  font-weight: 700;
+}
+
+#mad p1{
+  text-align:left;
+  font-family:Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+  font-variant:bolder;
+  font-style: 50px;
+  font-weight: bolder;
+  color:black;
+}
+#mad p2{
+  text-align:left;
+  font-family:Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+  font-variant:bolder;
+  font-style: 50px;
+  font-weight: bolder;
+  color:back;
+}
+
+#mission{
+background-color:pink;
+}
+#mission h2{
+  font-family: courier new;
+  font-size: 55px;
+  font-style: normal;
+  font-variant: bolder;
+  color:white;
+  font-weight: 700;
+}
+
+.lead{
+  font-family:Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+  font-variant:bolder;
+  font-style: 50px;
+  font-weight: bolder;
+  color:bLack;
+}
+#bottom{
+  background-color: #708090;
+  padding-top: 40px
+  border:10px
+
+}
+
+#bottom p{
+  font-family: times
+  color:white;
+  font-size:25px
+}
+
+#title{
+  background-color: #E6E6FA;
+
+}
